@@ -1,0 +1,147 @@
+
+body{
+  background-color: #ffffff;
+  border-color: #dddddd;
+  min-height: 100%;
+  flex-direction: column;
+  display: flex;
+  background-image: url("../images/concrete_seamless.png");
+
+
+}
+header{
+     width: 260px;
+    background-color: #4aaaa5;
+    min-height: 70px;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 65px;
+    float: left;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    /* margin-left: 70px; */
+}
+h1{
+	    border-bottom: solid 2px #dddddd;
+	    padding-left: 5px;
+	    padding-right: 5px;
+}
+.about{
+       height: 63px;
+}
+.about header{
+	float: left;
+	margin-left: 69px;
+
+}
+.nav_items{
+	float: left;
+    width: 300px;
+    margin-left: 286px;
+}
+
+.about_me{
+     clear: both;
+    background-color: #ffffff;
+    margin-left: 69;
+    border: solid 2px #444;
+    max-width: 575px;
+    float: left;
+    margin-top: 80px;
+    width: 400px;
+    
+   
+   
+}
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 15px 0 15px;
+	max-width: 960px;
+}
+.profile_pic{
+	float: left;
+	padding: 10px;
+	width: 200px;
+
+}
+div{
+	
+}
+.profile{
+	padding: 10px;
+}
+
+.connect{
+	 width: 288px;
+    float: left;
+    background-color: white;
+    margin-left: 20px;
+    border: solid 2px #222;
+    text-align: center;
+    margin-top: 80px;
+    
+
+
+}
+.connect h1{
+	border-bottom: solid 2px #dddddd;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.hr{
+	background-color: black;
+	height: 1px;
+	width: 200px;
+}
+
+
+.pic_logo{
+	width: 67px;
+	
+}
+.pic_logo1{
+	width: 67px;
+}
+.pic_logo2{
+	width: 67px;
+}
+footer{
+
+	text-align: center;
+	background-color: #666666;
+	height: 100px;
+	color: white;
+	border-top: solid 5px #4aaaa5;
+	margin-top: 10px;
+	clear: both;
+
+}
+
+footer p{
+	margin-top: 25px;
+}
+html{
+	height: 100%;
+}
+.Contact{
+	background-color: #ffffff;
+    
+    border: solid 2px #444;
+    width: 460px;
+    height: 600px;
+    float: left;
+    margin-top: 40px;
+    margin-right: 125px%;
+}
+.pic_logo4{
+     width: 320px;
+}
+.Portfolio{
+	width:644px;
+	float: left;
+}
+
+
+
+
+
